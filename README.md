@@ -38,16 +38,16 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MachadoS1lvajd&show_icons=true&theme=tokyonight" alt="GitHub stats" width="50%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MachadoS1lvajd&theme=tokyonight" alt="GitHub streak" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MachadoS1lvajd&show_icons=true&theme=tokyonight" alt="GitHub stats" width="65%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MachadoS1lvajd&theme=tokyonight" alt="GitHub streak" width="55%"/>
 </p>
 
 ---
 
 ### 📫 Contact Me
 
-- 📧 Email: **[machadosilvajosedavid77@gmail.com]**
-- 💼 LinkedIn: [linkedin.com/in/tu-usuario](https://www.linkedin.com/in/apolonio-teodoro-vespasiano-63002735b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BdAgnHNmWS%2BGHPM64qljWjg%3D%3D)
+- 📧 Email: **machadosilvajosedavid77@gmail.com**
+- 💼 LinkedIn: https://n9.cl/11zoh
 - 🧠 Portfolio: *coming soon*
 
 ---
